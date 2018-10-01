@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee.iml" filepath="$PROJECT_DIR$/.idea/modules/employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-api.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-impl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-stream-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-stream-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-stream-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-stream-impl-build.iml" />
+    </modules>
+  </component>
+</project>
