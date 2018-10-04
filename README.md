@@ -1,1 +1,0 @@
-This project explains how we can do schema evolution in lagom so that we don't have to do flush event store everytime there is a change in the schema.
